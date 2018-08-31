@@ -1,5 +1,5 @@
 pkg_name=habitatize
 pkg_origin=bachouri-learn-chef
+pkg_version=0.2.0
 pkg_scaffolding="core/scaffolding-ruby"
-pkg_version="0.1.0"
-pkg_deps=( core/imagemagick )
+pkg_deps=(bachouri-learn-chef/imagemagick)
